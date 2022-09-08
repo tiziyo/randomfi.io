@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 contract gamefactoryV1 {
 
   //When winner is made 
-  event;
+  event evt;
   
   struct singleNFT {
     uint nftId;
