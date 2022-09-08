@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-/**. gitgit
+/**
  * @title Cycle of (Bet -> NFT -> Win) 
  * @dev J.Kim 
  */
@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 contract gamefactoryV1 {
 
   //When winner is made 
-  event evt;
+  event;
   
   struct singleNFT {
     uint nftId;
